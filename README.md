@@ -9,8 +9,8 @@ CompanyAPI is the new hotness in Silicon Valley. The founders of the company Mik
 - run `bundle install`
 - run `rake db:setup` 
 - inspect the schema
-- implement a standard
-- convert your standard to graphql
+- implement a standard (see below)
+- convert your standard to [graphql](http://graphql.org/)
 
 ## Note from the Founders
 ```
@@ -40,5 +40,8 @@ CompanyAPI is the new hotness in Silicon Valley. The founders of the company Mik
 - https://github.com/rails/jbuilder
 
 ## Tutorials
+- [what's REST?](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
+- [Rails Guide: RESTful Routes](http://guides.rubyonrails.org/routing.html#crud-verbs-and-actions)
+- [what's JSON?](https://developers.squarespace.com/what-is-json/)
 - [how to design great apis](https://www.youtube.com/watch?v=qCdpTji8nxo)
 - [graphql in 30 minutes](https://www.youtube.com/watch?v=UBGzsb2UkeY)
