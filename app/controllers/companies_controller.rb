@@ -46,6 +46,6 @@ class CompaniesController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def company_params
-      params.fetch(:company, {})
+      params.fetch(:company, {}).permit(:name, :ein, :website, :email, :phone, :bank, :bank_swift, :bank_acct_number)
     end
 end

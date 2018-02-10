@@ -12,6 +12,7 @@ def salary
   [40000,60000,80000,120000,35000,70000].sample
 end
 
+
 8.times do
   Company.create(
     name: Faker::Company.name,
