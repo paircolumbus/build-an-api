@@ -12,6 +12,17 @@ CompanyAPI is the new hotness in Silicon Valley. The founders of the company Mik
 - run `rake db:setup` 
 - inspect the schema
 
+or
+
+Try my repl.it setup for this exercise
+
+- Sign up for an account at [repl.it](https://repl.it)
+- Visit [PairColumbus-Build-An-API](https://repl.it/@BrianLees/PairColumbus-Build-An-API)
+- Click the Pencil icon next to the name in the top left
+- Fork the environment (which makes a copy for yourself)
+- Click the `Start` button
+- Send a request to your custom URL found in the top box on the right-hand side of the screen
+
 ### Tasks (pick whichever looks interesting)
 - (Task #1) implement a standard (see below)
 - (Task #2) convert your standard to [graphql](http://graphql.org/)
