@@ -16,12 +16,10 @@ or
 
 Try my repl.it setup for this exercise
 
-- Sign up for an account at [repl.it](https://repl.it)
-- Visit [PairColumbus-Build-An-API](https://repl.it/@BrianLees/PairColumbus-Build-An-API)
-- Click the Pencil icon next to the name in the top left
-- Fork the environment (which makes a copy for yourself)
-- Click the `Start` button
-- Send a request to your custom URL found in the top box on the right-hand side of the screen
+1. Visit [PairColumbus-Build-An-API](https://repl.it/@BrianLees/PairColumbus-Build-An-API)
+1. Fork the environment (which makes a copy for yourself)
+1. Click the `Start` button
+1. Send a request to your custom URL found in the top box on the right-hand side of the screen
 
 ### Tasks (pick whichever looks interesting)
 - (Task #1) implement a standard (see below)
