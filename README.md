@@ -5,12 +5,16 @@ Rails is really great for building quick APIs out of the box. In this drill, we'
 ## Instructions:
 CompanyAPI is the new hotness in Silicon Valley. The founders of the company Mike & Jim have a great idea to disrupt LinkedIn by creating a free REST JSON Api that stores important data provided by companies throughout the country. The founders don't know how to code and have no money but fortunately they have you to do all of the work. 
 
+### Setup
+
 - setup ruby & rails (>5)
 - run `bundle install`
 - run `rake db:setup` 
 - inspect the schema
-- implement a standard (see below)
-- convert your standard to [graphql](http://graphql.org/)
+
+### Tasks (pick whichever looks interesting)
+- (Task #1) implement a standard (see below)
+- (Task #2) convert your standard to [graphql](http://graphql.org/)
 
 ## Note from the Founders
 ```
