@@ -22,6 +22,9 @@ CompanyAPI is the new hotness in Silicon Valley. The founders of the company Mik
 - what are some best practices for building api's?
 - try implementing 1-2 key things missing in this api
 
+## General HTTP knowledge refresher
+- [Great Walkthrough of the basics of HTTP requests](https://robots.thoughtbot.com/back-to-basics-http-requests)
+
 ## JSON Standards
 - http://jsonapi.org/
 - https://github.com/WhiteHouse/api-standards
@@ -33,9 +36,11 @@ CompanyAPI is the new hotness in Silicon Valley. The founders of the company Mik
 - [graphql-ruby: a ruby library for building graphql apis](https://github.com/rmosolgo/graphql-ruby)
 - [graphql-js: a js library for building graphql apis](https://github.com/graphql/graphql-js/)
 - [graphiql: an interactive in-browser IDE](https://github.com/graphql/graphiql)
+- [Article with a lot of great GraphQL info](https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d)
 
 ## Helpful Tools
 - https://www.getpostman.com/
+- [Insomnia - good for GraphQL querying](https://insomnia.rest/)
 - https://github.com/rails-api/active_model_serializers
 - https://github.com/rails/jbuilder
 
@@ -45,3 +50,4 @@ CompanyAPI is the new hotness in Silicon Valley. The founders of the company Mik
 - [what's JSON?](https://developers.squarespace.com/what-is-json/)
 - [how to design great apis](https://www.youtube.com/watch?v=qCdpTji8nxo)
 - [graphql in 30 minutes](https://www.youtube.com/watch?v=UBGzsb2UkeY)
+- [Build a Rails GraphQL API](https://medium.com/@DrawandCode/building-a-graphql-api-in-rails-part-1-a40aaf7e165f)
